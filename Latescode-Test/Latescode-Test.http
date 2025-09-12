@@ -1,0 +1,6 @@
+@Latescode_Test_HostAddress = http://localhost:5299
+
+GET {{Latescode_Test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
